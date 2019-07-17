@@ -1,2 +1,3 @@
-# guacamole-snipets-
-Snipets for PyBerlin July 2019 🥑
+# Guacamole Snipets 
+
+Snipets shared during PyBerlin 🐻 July 2019 🥑
