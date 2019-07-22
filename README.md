@@ -1,4 +1,4 @@
-# Guacamole Snipets 
+# Guacamole Snippets 
 
 Snippets shared during PyBerlin :bear: July 2019 :avocado:
 
