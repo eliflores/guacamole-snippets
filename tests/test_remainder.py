@@ -1,7 +1,7 @@
 from math import remainder
 
 
-def test_get_remainder():
+def test_remainder():
     assert 10 % 4 == 2.0
     assert 12 % 3 == 0.0
 
