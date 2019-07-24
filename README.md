@@ -1,6 +1,6 @@
 # Guacamole Snippets 
 
-Snippets shared during PyBerlin :bear: July 2019 :avocado:
+Snippets shared at PyBerlin :bear: July 2019 :avocado:
 
 1. [Format float](https://github.com/mignonnesaurus/guacamole-snippets/blob/master/src/format_float.py) :pencil2:  
 2. [Args join](https://github.com/mignonnesaurus/guacamole-snippets/blob/master/tests/test_join_args.py) :paperclips:
